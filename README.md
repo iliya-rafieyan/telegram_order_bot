@@ -57,6 +57,7 @@ Telegram Bot API
 
 
 فایل اصلی ربات و مدیریت:
+
 bot.py
 
 
