@@ -62,21 +62,26 @@ bot.py
 
 
 تنظیمات اصلی پروژه:
+
 config.py
 
 
 تمام کیبوردها و دکمه‌های ربات:
+
 keyboards.py
 
 اطلاعات محصولات و خدمات :
+
 products.py
 
 
 اطلاعات موقت سفارش کاربران در زمان ثبت سفارش : 
+
 states.py
 
 
 تمام عملیات مربوط به SQLite:
+
 database.py
 
 
@@ -84,31 +89,38 @@ database.py
 
 🚀 نصب و راه‌اندازی
 1. دریافت پروژه
+
 git clone YOUR_REPOSITORY_URL
 
 سپس وارد پوشه پروژه شوید:
+
 
 cd telegram_order_bot
 2. ساخت محیط مجازی
 
 پیشنهاد می‌شود پروژه را داخل Virtual Environment اجرا کنید.
 
+
 python -m venv venv
 
 فعال‌سازی در Windows:
 
+
 venv\Scripts\activate
 3. نصب وابستگی‌ها
+
 pip install -r requirements.txt
 4. تنظیم اطلاعات ربات
 
 فایل:
+
 
 config.py
 
 را باز کنید.
 
 مقادیر زیر را وارد کنید:
+
 
 BOT_TOKEN = "YOUR_BOT_TOKEN"
 
