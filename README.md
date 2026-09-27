@@ -75,7 +75,9 @@
 فیش پرداخت
 وضعیت سفارش
 تاریخ ثبت سفارش
+
 🛠 تکنولوژی‌های استفاده‌شده
+
 Python
 pyTelegramBotAPI (TeleBot)
 SQLite
