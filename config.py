@@ -1,0 +1,8 @@
+
+BOT_TOKEN = ""
+
+ADMIN_ID = ""
+
+CARD_NUMBER = "6037-0000-0000-0000"
+
+CARD_OWNER = ""
