@@ -54,17 +54,6 @@ Python
 pyTelegramBotAPI (TeleBot)
 SQLite
 Telegram Bot API
-📁 ساختار پروژه
-telegram_order_bot/
-│
-├── bot.py
-├── config.py
-├── keyboards.py
-├── products.py
-├── states.py
-├── database.py
-├── orders.db
-└── requirements.txt
 bot.py
 
 فایل اصلی ربات و مدیریت:
